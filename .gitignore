@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# make
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+leptjson_test
